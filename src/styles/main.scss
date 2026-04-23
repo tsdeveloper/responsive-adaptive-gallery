@@ -1,0 +1,14 @@
+@use './reset';
+
+:root {
+  font-size: 10px;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+ul, li, a {
+  color: white;
+  font-size: 1.5rem;
+}
